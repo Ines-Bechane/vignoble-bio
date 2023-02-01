@@ -1,0 +1,59 @@
+body {
+    background-color: lightpink;
+}
+
+
+
+.panier img {
+    width: 40px;
+    padding: 8px 0;
+}
+
+.panier section {
+    width: 70%;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse : collapse;
+    width: 100%;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+
+div{
+    padding: 10px 0;
+    font-weight: 400;
+    color : rgb(116, 18, 116)
+}
+.panier .row p{
+    /* border-top: 0.5px solid rgb(116, 18, 116); */
+    text-align: center;
+    color: rgb(116, 18, 116);
+}
+
+.panier .row{
+    border-bottom: 0.5px solid rgb(116, 18, 116);
+}
+
+.total div {
+    border: 0;
+    float: left;
+    font-weight: 500;
+    color: rgb(116, 18, 116);
+    padding : 10px;
+}
+
+.link{
+    margin: 20px;
+    width: fit-content;
+    position: relative;
+    text-decoration: 0;
+    background-color: rgb(116, 18, 116);
+    color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 6px;
+    font-size: 14px;
+}

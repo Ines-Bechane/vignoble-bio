@@ -1,0 +1,56 @@
+body{
+background-color:lightpink;
+font-family: 'Open Sans', sans-serif;
+font-size: larger;
+text-decoration: green;
+}
+
+.vin,
+.vin:hover {
+    color : rgb(116, 18, 116)
+}
+
+h1{
+color:green
+
+}
+
+p{
+    color:green;
+    font-size : 1.5rem;
+    
+}
+
+div{
+    text-align:center;
+}
+
+.video{
+    justify-content: center;
+}
+
+
+
+ .p2{
+ font-family: 'EB Garamond', serif;
+ font-size: 28px;
+ 
+ } 
+
+ 
+
+  .container-neon {
+    font-size:smaller;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+
+
+  }
